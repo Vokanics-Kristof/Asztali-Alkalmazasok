@@ -1,0 +1,8 @@
+D:\Vokanics_Kristof\elso_projekt\Valtozok\bin\Debug\Valtozok.exe.config
+D:\Vokanics_Kristof\elso_projekt\Valtozok\bin\Debug\Valtozok.exe
+D:\Vokanics_Kristof\elso_projekt\Valtozok\bin\Debug\Valtozok.pdb
+D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.AssemblyReference.cache
+D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.SuggestedBindingRedirects.cache
+D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.CoreCompileInputs.cache
+D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.exe
+D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.pdb

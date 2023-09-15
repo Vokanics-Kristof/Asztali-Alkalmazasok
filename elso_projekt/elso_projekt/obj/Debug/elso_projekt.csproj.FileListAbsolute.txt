@@ -1,0 +1,8 @@
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\bin\Debug\elso_projekt.exe.config
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\bin\Debug\elso_projekt.exe
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\bin\Debug\elso_projekt.pdb
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.AssemblyReference.cache
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.SuggestedBindingRedirects.cache
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.CoreCompileInputs.cache
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.exe
+D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.pdb
