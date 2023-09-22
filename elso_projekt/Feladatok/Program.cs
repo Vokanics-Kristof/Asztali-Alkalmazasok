@@ -13,6 +13,7 @@ namespace Feladatok
             elso();
             masodik();
             harmadik();
+            negyedik();
         }
 
         #region elso
