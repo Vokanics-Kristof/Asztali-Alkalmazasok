@@ -86,11 +86,17 @@ namespace Feladatok
         #region negyedik
         static void negyedik()
         {
-
+            Console.Write("A kör rádiusza: ");
+            float rad = float.Parse(Console.ReadLine());
+            Console.WriteLine($"A téglalap területe: {Circe_T(rad)}, kerülete: {Circe_K(rad)}");
         }
-        static float Circe_T(float rad)
+        static double Circe_T(float rad)
         {
-            return 0;
+            return Math.PI * Math.Pow(rad, 2);
+        }
+        static double Circe_K(float rad)
+        {
+            return 2 * Math.PI * rad;
         }
         #endregion negyedik
     }

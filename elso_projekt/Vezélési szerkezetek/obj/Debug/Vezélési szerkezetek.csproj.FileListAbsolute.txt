@@ -1,0 +1,8 @@
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\bin\Debug\Vezélési szerkezetek.exe.config
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\bin\Debug\Vezélési szerkezetek.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\bin\Debug\Vezélési szerkezetek.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\obj\Debug\Vezélési szerkezetek.csproj.AssemblyReference.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\obj\Debug\Vezélési szerkezetek.csproj.SuggestedBindingRedirects.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\obj\Debug\Vezélési szerkezetek.csproj.CoreCompileInputs.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\obj\Debug\Vezélési szerkezetek.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Vezélési szerkezetek\obj\Debug\Vezélési szerkezetek.pdb
