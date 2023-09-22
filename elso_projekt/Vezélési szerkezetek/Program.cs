@@ -155,7 +155,7 @@ namespace Vezélési_szerkezetek
         static void hetedik()
         {
             Console.Write("A szám: ");
-            int a = int.Parse(Console.ReadLine());
+            double a = double.Parse(Console.ReadLine());
 
             if(a > 0)
             {
