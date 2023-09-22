@@ -6,3 +6,11 @@ D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.Sugg
 D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.CoreCompileInputs.cache
 D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.exe
 D:\Vokanics_Kristof\elso_projekt\elso_projekt\obj\Debug\elso_projekt.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\bin\Debug\elso_projekt.exe.config
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\bin\Debug\elso_projekt.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\bin\Debug\elso_projekt.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.AssemblyReference.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\obj\Debug\elso_projekt.csproj.CoreCompileInputs.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\obj\Debug\elso_projekt.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\elso_projekt\obj\Debug\elso_projekt.pdb
