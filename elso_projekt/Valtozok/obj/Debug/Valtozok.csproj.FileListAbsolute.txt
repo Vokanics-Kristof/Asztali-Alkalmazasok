@@ -6,3 +6,11 @@ D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.SuggestedBin
 D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.CoreCompileInputs.cache
 D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.exe
 D:\Vokanics_Kristof\elso_projekt\Valtozok\obj\Debug\Valtozok.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\bin\Debug\Valtozok.exe.config
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\bin\Debug\Valtozok.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\bin\Debug\Valtozok.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.AssemblyReference.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.SuggestedBindingRedirects.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\obj\Debug\Valtozok.csproj.CoreCompileInputs.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\obj\Debug\Valtozok.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Valtozok\obj\Debug\Valtozok.pdb
