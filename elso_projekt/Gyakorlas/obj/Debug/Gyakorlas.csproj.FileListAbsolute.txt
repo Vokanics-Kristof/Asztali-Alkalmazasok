@@ -1,0 +1,8 @@
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\bin\Debug\Gyakorlas.exe.config
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\bin\Debug\Gyakorlas.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\bin\Debug\Gyakorlas.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\obj\Debug\Gyakorlas.csproj.AssemblyReference.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\obj\Debug\Gyakorlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\obj\Debug\Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\obj\Debug\Gyakorlas.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\Gyakorlas\obj\Debug\Gyakorlas.pdb

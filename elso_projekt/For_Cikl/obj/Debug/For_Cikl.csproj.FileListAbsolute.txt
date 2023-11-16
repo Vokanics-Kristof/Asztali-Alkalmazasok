@@ -1,0 +1,8 @@
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\bin\Debug\For_Cikl.exe.config
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\bin\Debug\For_Cikl.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\bin\Debug\For_Cikl.pdb
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\obj\Debug\For_Cikl.csproj.AssemblyReference.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\obj\Debug\For_Cikl.csproj.SuggestedBindingRedirects.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\obj\Debug\For_Cikl.csproj.CoreCompileInputs.cache
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\obj\Debug\For_Cikl.exe
+C:\Users\vokan\OneDrive\Asztali gép\Asztali óraik\elso_projekt\For_Cikl\obj\Debug\For_Cikl.pdb
